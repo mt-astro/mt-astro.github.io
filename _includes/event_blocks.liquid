@@ -1,0 +1,13 @@
+{% for event in events %}
+<article class="my-5 pb-4 border-bottom">
+  <h2>{{ event.title }}</h2>
+  {% if event.venue or event.when %}
+    <p>
+      {% if event.venue %}{{ event.venue }}{% endif %}
+      {% if event.venue and event.when %} · {% endif %}
+      {% if event.when %}{{ event.when }}{% endif %}
+    </p>
+  {% endif %}
+  {{ event.content }}
+</article>
+{% endfor %}
