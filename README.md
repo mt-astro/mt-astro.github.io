@@ -1,6 +1,6 @@
 # Michael Tucker
 
-Professional site, built locally with [al-folio](https://github.com/alshedivat/al-folio) v0.16.3. It is not published.
+Professional site, built with [al-folio](https://github.com/alshedivat/al-folio) v0.16.3. The public copy is https://mt-astro.github.io.
 
 Start here: [docs/README.md](docs/README.md).
 
