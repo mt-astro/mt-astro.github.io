@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://mt-astro.github.io/sitemap.xml
