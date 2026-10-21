@@ -13,6 +13,7 @@ These are the SCAT papers only. The [full publication list](/publications/) is s
 
 ## 2026
 
+- Mendez-Llorca, A. et al. 2026, "Flashing with colours: Photometric indicators of an early interaction in type II supernovae," [SciX](https://scixplorer.org/abs/2026arXiv261023852M/abstract)
 - Kopsacheili, M. et al. 2026, "The type Ia supernova 2023vjh: A peculiar 1991bg-like supernova with unusually faint light curves," [SciX](https://scixplorer.org/abs/2026A%26A...713A.202K/abstract)
 - Tucker, Michael A. et al. 2026, "SCAT Data Release 1: 1812 optical spectra of 1331 transients," [SciX](https://scixplorer.org/abs/2026OJAp....969213T/abstract)
 - Engholm, Athena C. et al. 2026, "ATLAS22kjn (AT 2022fpx): A Coronal Line Emitter with an Early Light Curve Bump and Mid-Infrared Dust Echo," [SciX](https://scixplorer.org/abs/2026arXiv260811300E/abstract)
@@ -39,6 +40,7 @@ These are the SCAT papers only. The [full publication list](/publications/) is s
 
 ## 2024
 
+- Hinkle, Jason T. et al. 2024, "On the Double: Two Luminous Flares from the Nearby Tidal Disruption Event ASASSN-22ci (AT2022dbl) and Connections to Repeating TDE Candidates," [SciX](https://scixplorer.org/abs/2024arXiv241215326H/abstract)
 - Tucker, Michael A. et al. 2024, "The Extremely Metal-poor SN 2023ufx: A Local Analog to High-redshift Type II Supernovae," [SciX](https://scixplorer.org/abs/2024ApJ...976..178T/abstract)
 - Dong, Yize et al. 2024, "Characterizing the Rapid Hydrogen Disappearance in SN 2022crv: Evidence of a Continuum between Type Ib and IIb Supernova Properties," [SciX](https://scixplorer.org/abs/2024ApJ...974..316D/abstract)
 - Hoogendam, W. B. et al. 2024, "Discovery and follow-up of ASASSN-23bd (AT 2023clx): the lowest redshift and luminosity optically selected tidal disruption event," [SciX](https://scixplorer.org/abs/2024MNRAS.530.4501H/abstract)

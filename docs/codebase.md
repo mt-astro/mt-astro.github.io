@@ -6,11 +6,11 @@ al-folio v0.16.3, with the demo content removed. Theme files that were not edite
 
 - `_pages/home.md` is the landing page (`/`). It is the research card grid plus the short welcome.
 - `_projects/` holds the four research essays. `importance` sets card order. `img` is the card thumbnail.
-- `_pages/rare-transients-publications.md` is the SCAT paper list, linked from the rare-transients essay. It is not a card.
-- `_pages/publications.md` is the full list from `papers.xlsx`.
+- `_pages/rare-transients-publications.md` is the SCAT paper list, linked from the rare-transients essay. It is not a card. Edit it by hand.
+- `_pages/publications.md` is the full publication list. Edit it by hand.
 - `_pages/about.md`, `_pages/contact.md`, `_pages/cv.md`, `_pages/conferences.md`, `_pages/outreach.md` are the other nav pages.
 - `_conferences/_example.md` and `_outreach/_example.md` are unpublished templates.
-- `papers.xlsx` is the publication spreadsheet. `scripts/build_publications.py` rewrites the two publication pages from it.
+- `papers.xlsx` is a stale publication export. `scripts/build_publications.py` still rewrites the two publication pages from it, which drops hand-added papers.
 - `assets/img/research/`, `assets/img/about/`, `assets/pdf/cv.pdf`, and `assets/video/rg_SYMB_d.mp4` are the migrated media.
 - `docs/README.md` is the editing guide. `docs/agent_notes.md` and `docs/codebase.md` describe how the site is organized.
 

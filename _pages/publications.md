@@ -11,6 +11,7 @@ description: "Journal articles and preprints, newest first."
 
 ## 2026
 
+- Mendez-Llorca, A. et al. 2026, "Flashing with colours: Photometric indicators of an early interaction in type II supernovae," [SciX](https://scixplorer.org/abs/2026arXiv261023852M/abstract)
 - Kopsacheili, M. et al. 2026, "The type Ia supernova 2023vjh: A peculiar 1991bg-like supernova with unusually faint light curves," [SciX](https://scixplorer.org/abs/2026A%26A...713A.202K/abstract)
 - Tucker, Michael A. et al. 2026, "SCAT Data Release 1: 1812 optical spectra of 1331 transients," [SciX](https://scixplorer.org/abs/2026OJAp....969213T/abstract)
 - Jennerjahn, Evan et al. 2026, "Nebular Spectra of the Extremely Metal-Poor SN II 2023ufx Over a Year After Explosion: A Massive Progenitor and Unique Circumstellar Environment," [SciX](https://scixplorer.org/abs/2026arXiv260904307J/abstract)
@@ -47,6 +48,7 @@ description: "Journal articles and preprints, newest first."
 
 ## 2024
 
+- Hinkle, Jason T. et al. 2024, "On the Double: Two Luminous Flares from the Nearby Tidal Disruption Event ASASSN-22ci (AT2022dbl) and Connections to Repeating TDE Candidates," [SciX](https://scixplorer.org/abs/2024arXiv241215326H/abstract)
 - Tucker, Michael A. et al. 2024, "The Extremely Metal-poor SN 2023ufx: A Local Analog to High-redshift Type II Supernovae," [SciX](https://scixplorer.org/abs/2024ApJ...976..178T/abstract)
 - Ashall, C. et al. 2024, "A JWST Medium-resolution MIRI Spectrum and Models of the Type Ia Supernova 2021aefx at +415 days," [SciX](https://scixplorer.org/abs/2024ApJ...975..203A/abstract)
 - Neumann, Kyle D. et al. 2024, "Echo Location: Distances to Galactic Supernovae From ASAS-SN Light Echoes and 3D Dust Maps," [SciX](https://scixplorer.org/abs/2024OJAp....7E..98N/abstract)

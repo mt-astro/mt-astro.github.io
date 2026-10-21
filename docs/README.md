@@ -59,7 +59,9 @@ A new local `.mp4` goes in `assets/video/`. Copy the video block on the Type Ia 
 
 ### Publications
 
-[papers.xlsx](../papers.xlsx) is the source for both publication pages. Columns that matter:
+Edit `_pages/publications.md` and `_pages/rare-transients-publications.md` directly. [papers.xlsx](../papers.xlsx) is an old export and does not list every paper. Running `scripts/build_publications.py` rewrites both pages from that spreadsheet and drops papers that were added by hand.
+
+The spreadsheet columns, if you do use it later, are:
 
 - `bibcode`, the ADS bibcode. The site links it at scixplorer.org.
 - `scat`, `y` or `n`. `y` also puts the paper on the SCAT publications page
@@ -69,13 +71,7 @@ A new local `.mp4` goes in `assets/video/`. Copy the video block on the Type Ia 
 
 The other columns are kept for your own sorting and are not shown on the site.
 
-After editing the spreadsheet:
-
-```bash
-python3 scripts/build_publications.py
-```
-
-That rewrites `_pages/publications.md` and `_pages/rare-transients-publications.md`. Hand edits in those two files are replaced. The site prints `First Author et al.` because the spreadsheet stores only the first author.
+A new line follows the existing ones: `First Author et al. YEAR, "Title," [SciX](https://scixplorer.org/abs/BIBCODE/abstract)`. Put it under the right year, newest first. A SCAT paper goes on both pages. The full list is `_pages/publications.md`. The SCAT list is `_pages/rare-transients-publications.md`.
 
 ### About, contact, and the CV
 

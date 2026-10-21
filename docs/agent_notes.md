@@ -3,7 +3,7 @@
 - The live OSU site is WordPress at https://u.osu.edu/tucker-957/. This folder is a local al-folio v0.16.3 copy. Do not start from the unreleased al-folio main branch; v1 changes the theme layout.
 - System Ruby on this Mac is 2.6 and cannot build the site. Use Homebrew Ruby 4 (`/opt/homebrew/opt/ruby/bin`) and `vendor/bundle`.
 - SCAT and the rare-transient object stories are one essay, titled Rare and Exotic Transients with SCAT. Do not split them into two cards.
-- `papers.xlsx` is the publication source. `scat` = `y` feeds the SCAT list. Regenerate with `python3 scripts/build_publications.py`. The sheet has the first author only, so the pages say “et al.”
+- `papers.xlsx` is a stale export. Do not regenerate the publication pages from it. `scripts/build_publications.py` would replace `_pages/publications.md` and `_pages/rare-transients-publications.md` and drop papers added by hand. Mendez-Llorca et al. 2026 (`2026arXiv261023852M`) and Hinkle et al. 2024 (`2024arXiv241215326H`, ASASSN-22ci) are on both pages and are SCAT papers.
 - Paper links use `https://scixplorer.org/abs/<bibcode>/abstract`. ADS abstract URLs redirect there starting 16 November 2026. Do not switch them back to `ui.adsabs.harvard.edu`.
 - The SCAT DR1 essay link uses the published bibcode `2026OJAp....969213T` from the spreadsheet, not the arXiv bibcode that was on the OSU page.
 - Tucker et al. 2018 on the GALEX page is `2018MNRAS.475.4768T` (white-dwarf pulsators). Do not attach a different 2018 Tucker paper.
