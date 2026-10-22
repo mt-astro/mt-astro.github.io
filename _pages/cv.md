@@ -9,6 +9,6 @@ description: Curriculum vitae
 
 <!-- How to replace the CV: docs/README.md#about-contact-and-the-cv -->
 
-The CV PDF is dated 2026-10-01.
+The CV PDF is dated 2026-10-22.
 
 [Download CV (PDF)](/assets/pdf/cv.pdf)
