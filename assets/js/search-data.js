@@ -128,6 +128,11 @@ ninja.data = [{
           description: "",
           section: "Conferences",handler: () => {
               window.location.href = "/conferences/snii-rsg/";
+            },},{id: "conferences-type-ia-supernova-progenitors-and-cosmology-in-light-of-desi",
+          title: 'Type-Ia Supernova Progenitors and Cosmology in Light of DESI',
+          description: "",
+          section: "Conferences",handler: () => {
+              window.location.href = "/conferences/ccapp-snia-2026/";
             },},{id: "projects-galex-and-gphoton",
           title: 'GALEX and gPhoton',
           description: "New science with the GALEX UV photon archive",
