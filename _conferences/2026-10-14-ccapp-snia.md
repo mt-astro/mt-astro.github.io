@@ -7,7 +7,7 @@ when: "14–16 October 2026"
 permalink: /conferences/ccapp-snia-2026/
 ---
 
-CCAPP workshop on Type Ia supernova progenitors and what they imply for cosmology in light of the DESI results.
+Lead organizer of this CCAPP workshop on Type Ia supernova progenitors and what they imply for cosmology in light of the DESI results.
 
 <div class="row">
   <div class="col-sm-6 mt-3">
